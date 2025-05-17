@@ -1,6 +1,7 @@
 # **Sistema de Controle Fuzzy para Ventilação de Ambientes**
 
-**Autor**: César Henrique Resende Soares  
+**Autores**: César Henrique Resende Soares e Mateus Henrique Pereira
+**Email**: cesar@cefetmg.aluno.com e mateushenriqpereira02@gmail.com 
 **Disciplina**: Inteligência Computacional  
 **Professor**: Alisson Marques da Silva
 **Instituição**: CEFET-MG
@@ -144,15 +145,6 @@ Essa resposta, é coerente com o ambiente frio (18°C) e seco (30%), e uma venti
 sem desperdício energético, além disso, também há poucas pessoas no ambiente, desse modo, o resultado faz sentido.
 
 ---
-
-## **6. Contato**
-**Autores**: César Henrique Resende Soares e Mateus Henrique Pereira
-**Email**: cesar@cefetmg.aluno.com e mateushenriqpereira02@gmail.com 
-
---- 
-
-
-
 
 
 
