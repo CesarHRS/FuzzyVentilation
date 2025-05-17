@@ -1,14 +1,10 @@
-# **Sistema de Controle Fuzzy para Ventilação de Ambientes**
+# **Sistema de Controle Fuzzy para Ventilação de Ambientes** 
 
-**Autores**: César Henrique Resende Soares e Mateus Henrique Pereira
-
-**Email**: cesar@cefetmg.aluno.com e mateushenriqpereira02@gmail.com 
-
-**Disciplina**: Inteligência Computacional  
-
-**Professor**: Alisson Marques da Silva
-
-**Instituição**: CEFET-MG
+**Autores**: César Henrique Resende Soares e Mateus Henrique Pereira<br>
+**Email**: cesar@cefetmg.aluno.com e mateushenriqpereira02@gmail.com<br> 
+**Disciplina**: Inteligência Computacional<br> 
+**Professor**: Alisson Marques da Silva<br>
+**Instituição**: CEFET-MG<br>
 
 ---
 
